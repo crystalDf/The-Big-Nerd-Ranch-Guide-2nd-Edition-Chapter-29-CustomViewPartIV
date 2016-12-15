@@ -117,4 +117,5 @@ public class CustomTitleView extends View {
                 (getWidth() - mBounds.width()) / 2,
                 (getHeight() + mBounds.height()) / 2, mPaint);
     }
+
 }
